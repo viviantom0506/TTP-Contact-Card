@@ -2,7 +2,7 @@
 import React, { Component } from "react";
 import ContactCard from "./ContactCard";
 
-import './App.css';
+import './App.css'; 
 
 class App extends Component {
   render() {
